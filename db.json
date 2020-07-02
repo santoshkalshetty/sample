@@ -1,0 +1,219 @@
+{
+  "products":[
+
+    {
+      "id" : 1,
+      "name":"Rubik Code's",
+      "description": "",
+      "imageUrl":"",
+      "price":299
+    },
+    {
+      "id" : 2,
+      "name":"Rubik Code's",
+      "description": "",
+      "imageUrl":"",
+      "price":299
+    },
+    {
+      "id" : 3,
+      "name":"Rubik Code's",
+      "description": "",
+      "imageUrl":"",
+      "price":299
+    },
+    {
+      "id" : 4,
+      "name":"Rubik Code's",
+      "description": "",
+      "imageUrl":"",
+      "price":299
+    },
+    {
+      "id" : 5,
+      "name":"Rubik Code's",
+      "description": "",
+      "imageUrl":"",
+      "price":299
+    },
+    {
+      "id" : 6,
+      "name":"Rubik Code's",
+      "description": "",
+      "imageUrl":"",
+      "price":299
+    },
+    {
+      "id" : 7,
+      "name":"Rubik Code's",
+      "description": "",
+      "imageUrl":"",
+      "price":299
+    },
+    {
+      "id" : 8,
+      "name":"Rubik Code's",
+      "description": "",
+      "imageUrl":"",
+      "price":299
+    },
+    {
+      "id" : 9,
+      "name":"Rubik Code's",
+      "description": "",
+      "imageUrl":"",
+      "price":299
+    },
+    {
+      "id" : 10,
+      "name":"Rubik Code's",
+      "description": "",
+      "imageUrl":"",
+      "price":299
+    },
+    {
+      "id" : 11,
+      "name":"Rubik Code's",
+      "description": "",
+      "imageUrl":"",
+      "price":299
+    },
+    {
+      "id" : 12,
+      "name":"Rubik Code's",
+      "description": "",
+      "imageUrl":"",
+      "price":299
+    },
+    {
+      "id" : 13,
+      "name":"Rubik Code's",
+      "description": "",
+      "imageUrl":"",
+      "price":299
+    },
+    {
+      "id" : 14,
+      "name":"Rubik Code's",
+      "description": "",
+      "imageUrl":"",
+      "price":299
+    },
+    {
+      "id" : 15,
+      "name":"Rubik Code's",
+      "description": "",
+      "imageUrl":"",
+      "price":299
+    },
+    {
+      "id" : 16,
+      "name":"Rubik Code's",
+      "description": "",
+      "imageUrl":"",
+      "price":299
+    },
+    {
+      "id" : 17,
+      "name":"Rubik Code's",
+      "description": "",
+      "imageUrl":"",
+      "price":299
+    },
+    {
+      "id" : 18,
+      "name":"Rubik Code's",
+      "description": "",
+      "imageUrl":"",
+      "price":299
+    },
+    {
+      "id" : 19,
+      "name":"Rubik Code's",
+      "description": "",
+      "imageUrl":"",
+      "price":299
+    },
+    {
+      "id" : 20,
+      "name":"Rubik Code's",
+      "description": "",
+      "imageUrl":"",
+      "price":299
+    },
+    {
+      "id" : 21,
+      "name":"Rubik Code's",
+      "description": "",
+      "imageUrl":"",
+      "price":299
+    },
+    {
+      "id" : 22,
+      "name":"Rubik Code's",
+      "description": "",
+      "imageUrl":"",
+      "price":299
+    },
+    {
+      "id" : 23,
+      "name":"Rubik Code's",
+      "description": "",
+      "imageUrl":"",
+      "price":299
+    },
+    {
+      "id" : 24,
+      "name":"Rubik Code's",
+      "description": "",
+      "imageUrl":"",
+      "price":299
+    },
+    {
+      "id" : 25,
+      "name":"Rubik Code's",
+      "description": "",
+      "imageUrl":"",
+      "price":299
+    },
+    {
+      "id" : 26,
+      "name":"Rubik Code's",
+      "description": "",
+      "imageUrl":"",
+      "price":299
+    },
+    {
+      "id" : 27,
+      "name":"Rubik Code's",
+      "description": "",
+      "imageUrl":"",
+      "price":299
+    },
+    {
+      "id" : 28,
+      "name":"Rubik Code's",
+      "description": "",
+      "imageUrl":"",
+      "price":299
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "carts":[],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
